@@ -12,20 +12,20 @@ Artist/copyright: [Matt Kane](https://superrare.com/mattkane). [NFT page](https:
 |  |
 | ------ |
 | 1. **Media scripts humans in ways we don't fully appreciate.** 
-Subjects at the mercy of the journalist. **"dark arts"**, e.g asking for a comment 20min before the piece is published, or picking quotes without context
+Subjects at the mercy of the journalist. "dark arts", e.g asking for a comment 20min before the piece is published, or picking quotes without context
 Journalists at the mercy of the corporation they work for.
 "Never argue with the man who buys ink by the barrel" - Roger Branigin. 
 | 2. **We need radical decentralisation: citizen journalism not corporate journalism.** 
 Citizens who know more about the field they're writing about and whose "sense of self" isn't just tied to writing.
-Have **independent confirmations on the data** (similar to blockchains) not just one source of truth.
+Have independent confirmations on the data (similar to blockchains) not just one source of truth.
 | 3. **Modes of defence against media attacks** 
-**Personal financial independence**: you are free to speak your mind.
-**Collective independence**: you have reduced vulnerabilities from your associations to other organisations.  
-**Work in the pseudonymous economy**: protection by keeping your real world identity secret.
+Personal financial independence: you are free to speak your mind.
+Collective independence: you have reduced vulnerabilities from your associations to other organisations.  
+Work in the pseudonymous economy: protection by keeping your real world identity secret.
 | 4. **Media incentives are based on pageviews, prestige and profit.**
-**Pageviews**: benefit from polarisation. "If it bleeds it leads". "If it enrages it engages". "Scissor statements" - obviously true to one party, and obviously false to the other 
-**Prestige**: popularity among the establishment. Going for Pulitzers. Small group of people who clap eachother. 
-**Profit**: conflict and crisis leads to more subscriptions bought. William Randolph Hearst 
+Pageviews: benefit from polarisation. "If it bleeds it leads". "If it enrages it engages". "Scissor statements" - obviously true to one party, and obviously false to the other 
+Prestige: popularity among the establishment. Going for Pulitzers. Small group of people who clap eachother. 
+Profit: conflict and crisis leads to more subscriptions bought. William Randolph Hearst 
  
 
 ## Geopolitics
