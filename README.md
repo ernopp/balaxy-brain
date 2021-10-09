@@ -3,9 +3,9 @@
 
 **An open-source tracker of the most interesting concepts & framings from Balaji**
 
-<p align="center" style="font-size: 70%">
+<p align="center">
   <img width="60%" src="build-the-future.png">
-    <p>
+    <p align="center" style="font-size: 70%">
     Artist/copyright: 
     <a href="https://superrare.com/mattkane">Matt Kane</a>
     </p>
