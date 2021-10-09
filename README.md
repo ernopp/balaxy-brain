@@ -3,14 +3,14 @@
 
 **An open-source tracker of the most interesting concepts & framings from Balaji**
 
-<div style="text-align:center">
+<p align="center">
   <img width="60%" src="build-the-future.png">
 
 <p style="font-size: 70%">
     Artist/copyright: 
     <a href="https://superrare.com/mattkane">Matt Kane</a>
 </p>
-</div>
+</p>
 
 ## Legend
 * 🩺 Diagnosis 
