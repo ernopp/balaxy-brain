@@ -30,8 +30,8 @@ Legend:
 ### 🩺 2. Media incentives are based on pageviews, prestige and profit
 
 * **Pageviews**: benefit from polarisation
-** "If it bleeds it leads". "If it enrages it engages". 
-** "Scissor statements" - designed to inflict controversy, e.g obviously true to one party, and obviously false to the other 
+  * "If it bleeds it leads". "If it enrages it engages". 
+  * "Scissor statements" - designed to inflict controversy, e.g obviously true to one party, and obviously false to the other 
 * **Prestige**: popularity among the establishment. Going for Pulitzers. Small group of people who clap eachother. 
 * **Profit**: conflict and crisis leads to more subscriptions bought. William Randolph Hearst 
 
